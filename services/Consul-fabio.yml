@@ -28,7 +28,7 @@ services:
 networks:
   dshop:
     name: dshop-network
-    #external : true
+    # external : true
    
 
 volumes:
